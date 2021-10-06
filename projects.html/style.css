@@ -1,0 +1,15 @@
+*{}
+body {
+    background-color:honeydew;
+text-align: center;
+text-decoration-color: indianred;
+border: black;}
+h1 {
+    color: lawngreen;
+}
+p {
+    border: yellowgreen;
+    color: olive;
+    border-style:inset;
+    border-bottom-left-radius: 2px;
+}
