@@ -22,3 +22,7 @@ ol{
     align-self: inherit;
     text-rendering: auto;
 }
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration:underline;
