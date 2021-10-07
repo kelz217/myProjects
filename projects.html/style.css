@@ -81,6 +81,9 @@ footer {
     border-radius: var(--main-radius);
         padding-top: var(--main-padding);
  }
+ img{
+     border-radius: 50%;
+ }
 
  @media only screen and (max-width:550px) {
      .container {
