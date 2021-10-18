@@ -98,5 +98,11 @@ footer {
          "content3"
          "footer";
      }
+     ol{
+         list-style: none;
+     }
+     a:hover {
+         background-color: red;
+     }
 
  }
